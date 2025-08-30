@@ -1,4 +1,3 @@
-# Os-Project
 Multi User Document Editing System
 Running commands:
 g++ producer.cpp -o producer -lpthread
